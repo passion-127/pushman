@@ -47,7 +47,7 @@ For Debian based systems, there is an apt package: `apt-get install libzmq3-dev`
 ##### Step 2 - Install the PHP Extension
 You can always build the PHP extension yourself:
 ```
-git clone git://github.com/mkoppanen/php-zmq.git
+git clone git://github.com/passion-127/php-zmq.git
 $ cd php-zmq
 phpize && ./configure
 $ sudo make
